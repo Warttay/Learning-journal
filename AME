@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<h1>About Me</h1>
+	<section>
+		<p>I love cats. Such many cats we can see everywhere,especially in <a target="_blank" href="https://en.wikipedia.org/wiki/Tabby_cat" >the Internet</a></p>
+		<figure>
+			<img src="4a73d39983123d16812300c2f350c4eb.jpg" alt="Siam cat">
+			<figcaption>Beautiful cat</figcaption>
+		</figure>
+	</section>
+	<section>
+<h3>Cats love:</h3>
+<ul>
+	<li>meat</li>
+	<li>sleep</li>
+	<li>play</li>
+</ul>
+<h3>They also hate:</h3>
+<ol>
+	<li>other cats</li>
+	<li>water</li>
+</ol>
+	</section>
+	<section>
+		<h3>Do you agree?</h3>
+	<form action=https://freecatphotoapp.com/submit-cat-photo></form>
+	<input type="checkbox">
+	</form>
+	</section>
+</body>
+</html>
